@@ -1,0 +1,84 @@
+/*p {*/
+/*    Color: red;*/
+/*    Font-family: Arial;*/
+/*    Font-size: 20px;*/
+/*    background-color: yellow;*/
+/*}*/
+
+/*.red {*/
+/*    color: red;*/
+/*}*/
+
+/*p {*/
+/*    font-family: 'Montserrat', sans-serif;*/
+/*}*/
+
+/*Div p {*/
+/*    Color: blue;*/
+/*    Font-size: 10px;*/
+/*    background-color: red;*/
+/*    border: 1px solid black;*/
+/*    border-radius: 10px;*/
+/*}*/
+
+/*.class_test { */
+/*    color: rgba(215, 123, 44, 0.4);*/
+/*    font-size: 30px;*/
+/*}*/
+
+/*body {*/
+/*    background-image: url("https://s-media-cache-ak0.pinimg.com/736x/42/da/56/42da566d64df99d3f5a8c1d859dea2c1.jpg");*/
+/*}*/
+ 
+/*#id_test { */
+/*    color: red; */
+/*    font-size: 30px;*/
+/*} */
+
+/*.hover_test:hover { */
+/*    font-size: 30px; */
+/*}*/
+
+/*a:visited {*/
+/*    background: black; */
+/*    color: pink;*/
+/*}*/
+
+
+h1 {
+	font-size: 5em;
+	color: #2952A3;
+	font-family: Helvetica;
+	text-align: center;
+}
+
+p {
+	font-size: 2em;
+	text-align: center;
+}
+
+div {
+	height: 50px;
+	width: 120px;
+	border-color: #6495ED;
+	border-width: 2px;
+	border-style: solid;
+	background: #BCD2EE;
+	border-radius: 10px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+a {
+	text-decoration: none;
+}
+
+.button {
+	text-align: center;
+	color: #2952a3;
+	font-size: 1em;
+}
+
+div:hover {
+	background-color: #FF3300;
+}
